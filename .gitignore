@@ -1,0 +1,6 @@
+target/
+wiremock-runner/mappings/
+wiremock-runner/__files/
+.classpath
+.project
+.settings
